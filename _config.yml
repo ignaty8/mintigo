@@ -1,6 +1,6 @@
 # main text of home
-name: Ignaty Romanov-Chernigovsky
-bio: Per Scientia, ad Astra
+name: Us in Space
+bio: Per Adfinitas, ad Astra
 
 # twitter summary info
 description: Houston, we are go for Launch! 🚀
@@ -16,11 +16,11 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
 resume-url: /publications
 
-url: https://ignaty.space
+url: https://mintus.space
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -37,9 +37,9 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: ignaty-romanov-chernigovsky-07201a107
-github: ignaty8
-telegram: DraigLlofrudd
+# linkedin: myinstagram
+# github: myinstagram
+# telegram: myinstagram
 #email: ignaty8@gmail.com
 
 authors:
@@ -71,7 +71,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
